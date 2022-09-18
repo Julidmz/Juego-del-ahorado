@@ -1,1 +1,1 @@
-# Juego-del-ahorado
+# Juego-del-ahorcado
